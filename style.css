@@ -1,9 +1,12 @@
 * { margin: 0; padding: 0; }
+body {
+  color: black;
+}
 .banner {
   width: 100px;
   height: 100px;
   background: red;
 }
 h1 {
-  color: red;
+  color: green;
 }
